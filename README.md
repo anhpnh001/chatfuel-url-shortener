@@ -16,3 +16,7 @@ To run/install this app, you'll need:
 
 ![JSON API](https://i.imgur.com/Ru2QPOx.png)
 > Replace `example.com` with your URL
+
+## License
+
+[MIT](./LICENSE)
